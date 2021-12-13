@@ -15,3 +15,7 @@ pip install matplotlib
 ```
 pip install Seaborn
 ```
+* Sklearn, For machine learning algorithms
+```
+pip install sklearn
+```
